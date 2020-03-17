@@ -1,8 +1,6 @@
 # Global-Airport-Time-Converter
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ppml38/Global-Airport-Time-Converter/master/App%20screen%20shot.png?token=AO3I6YR543MJPMDYQCMPVOK6OEHPQ" alt="Application screen shot">
-</p>
+![Application screen shot](App_screen_shot.png)
 
 This is a desktop app that can be used by flight handling personnels to convert time between airport codes and/or timezones
 
