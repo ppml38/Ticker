@@ -10,4 +10,5 @@ It is a tedious task for those handling global flight operations to calculate ti
 This tool is intended to remove this difficulties and convert the times in few clicks.
 
 ### Programming language and tools
-This app is purely written in Java with notepad and compiled with jdk manually. no special tools used
+This app is written in Java with notepad and compiled with jdk manually.
+For operations on .csv files ![my csv specific framework](https://github.com/ppml38/CSV-Handler) has been used
