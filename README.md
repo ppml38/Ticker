@@ -12,3 +12,6 @@ This tool is intended to remove this difficulties and convert the times in few c
 ### Programming language and tools
 This app is written in Java with notepad and compiled with jdk manually.
 For operations on .csv files, my csv specific Java frame work ![ppml38/CSV-Handler](https://github.com/ppml38/CSV-Handler) has been used
+
+### How to use?
+![](AppUse.gif)
