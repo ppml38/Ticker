@@ -1,3 +1,4 @@
+![](Ticker.ico)
 # Global-Airport-Time-Converter
 
 ![Application screen shot](App_screen_shot.png)
